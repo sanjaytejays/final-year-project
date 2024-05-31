@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894898978277",
+    "project_id": "final-year-project-4a9e1",
+    "storage_bucket": "final-year-project-4a9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894898978277:android:197092aabedd04ab79c30c",
+        "android_client_info": {
+          "package_name": "com.ai_checkout_app.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfH3haQXr06yGE7u8SHFvOY6DdxYJhZuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894898978277:android:5bd772f36302e00679c30c",
+        "android_client_info": {
+          "package_name": "com.example.ai_checkout_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfH3haQXr06yGE7u8SHFvOY6DdxYJhZuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
